@@ -6,9 +6,6 @@ using namespace std;
 #define output freopen("out.txt","w",stdout)
 
 
-
-
-
 int main(){
     //input;
     output;
